@@ -72,11 +72,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-test",
+            },{id: "post-a-post-with-table-of-contents",
         
-          title: "Test",
+          title: "a post with table of contents",
         
-        description: "",
+        description: "test post with embed code",
         section: "Posts",
         handler: () => {
           
