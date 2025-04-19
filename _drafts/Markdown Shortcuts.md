@@ -14,7 +14,7 @@ Markdown allows you to create headings with the `#` symbol. The number of `#` sy
 - `# Heading 1`
 - `## Heading 2`
 - `### Heading 3`
-- Use more `#` symbols for deeper levels.
+- Use more `#` symbols for deeper levels. 
 
 ---
 
