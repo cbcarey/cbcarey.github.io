@@ -3,7 +3,7 @@ Here’s the entire content from my earlier response formatted as Markdown. You 
 ```markdown
 # Common Markdown Shortcuts
 
-This document provides a comprehensive guide to common Markdown shortcuts and their usage examples.
+This document provides a comprehensive guide to common Markdown shortcuts and their usage examples. Created with ChatGPT.
 
 ---
 
